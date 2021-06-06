@@ -18,7 +18,7 @@ let estado=true;*/
 //ENTRADAS
 
 //datos del cliente
-/*let nombreCliente="PEDRO PARAMO";
+let nombreCliente="PEDRO PARAMO";
 let identificacionCliente="1017158198";
 let direccionCliente="CR 50 #80-20";
 
@@ -36,9 +36,11 @@ let costoTotal=(precioProducto*cantidadProducto);
 
 //SALIDA(mostrar en consola el resultado calculado en el proceso)
 console.log("señor: "+nombreCliente+" su costo total es de: "+costoTotal);
-console.log(`señor: ${nombreCliente} su costo total es de: ${costoTotal}`);*/
+console.log(`señor: ${nombreCliente} su costo total es de: ${costoTotal}`);
 
-let nom="PEDRO PARAMO";
+
+//NO DEBEMOS:
+/*let nom="PEDRO PARAMO";
 let ident="1017158198";
 let dir="CR 50 #80-20";
 
@@ -56,4 +58,4 @@ let ttl=(x*ctd);
 
 //SALIDA(mostrar en consola el resultado calculado en el proceso)
 console.log("señor: "+nom+" su costo total es de: "+ttl);
-console.log(`señor: ${nom} su costo total es de: ${ttl}`);
+console.log(`señor: ${nom} su costo total es de: ${ttl}`);*/
